@@ -3,4 +3,4 @@ title: Goofy for Spotify®
 
 theme: jekyll-theme-cayman
 
-include: [ "*" ]
+include: [ "*.md" ]
