@@ -1,2 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
 title: Goofy for Spotify®
+
+theme: jekyll-theme-cayman
